@@ -3,7 +3,7 @@
 Source code used to make People Analytics Website
 <br>
 
-## People Analytics for the AU Library <br>
-(library-258507.appspot.com)
+
+![People Analytics for AU Library](library-258507.appspot.com "")
 
 
