@@ -1,6 +1,9 @@
 
 # SP1Website
-Source code used to make People Analytics Website
+People Analytics for AU Library Website <br>
+Made using bootstrap sample, php, html, and css. <br>
+<br>
+***SQL has been removed as the data collection is no longer available.***
 <br>
 ## Dashboard
 This page showcases the number of visitors based on the current day, week, month, and year, compared to the prior day, week, month, and year.  In addition, below that are charts which display more details and drilldown into more specifics.
