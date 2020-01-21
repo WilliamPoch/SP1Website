@@ -1,7 +1,7 @@
 
 # SP1Website
 People Analytics for AU Library Website <br>
-Made by modifying a free bootstrap website sample and coded in php, html, and css. <br>
+Made by modifying a free bootstrap website sample and coded in PHP, HTML, CSS, and JavaScript. <br>
 <br>
 ***SQL has been removed as the data collection is no longer available.***
 <br>
