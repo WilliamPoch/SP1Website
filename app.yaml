@@ -1,0 +1,14 @@
+runtime: php
+env: flex
+runtime_config:
+    document_root: .
+env_variables:
+    APP_LOG: errorlog
+    GOOGLE_STORAGE_BUCKET: "library-258507.appspot.com"
+    MYSQL_USER: "root"
+    MYSQL_PASSWORD: "library1234"
+    MYSQL_DSN: "mysql:dbname=count;unix_socket-/cloudsql/library-258507:us-central1:library1234"
+beta_settings:
+    cloud_sql_instances: "library-258507:us-central1:library1234"
+
+
