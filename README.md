@@ -1,4 +1,4 @@
-
+***This project has been finalized and submitted, and thus will no longer be worked on for the forseeable future.***<br>
 # SP1Website
 People Analytics for AU Library Website <br>
 Made by modifying a free bootstrap website sample and coded in PHP, HTML, CSS, and JavaScript. <br>
